@@ -15,7 +15,7 @@ let MainData = `
 https://8th.sub-airport.com/api/v1/client/subscribe?token=4d940762f506904083a5fa8294abb39d
 https://pages122.1288025.xyz/cc123456
 https://trojan.mxtwscgroup.xyz/ss217217
-https://trojanpages.631217.xyz/ds631217
+
 `
 
 let urls = [];
